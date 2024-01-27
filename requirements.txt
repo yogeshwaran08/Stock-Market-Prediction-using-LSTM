@@ -1,0 +1,6 @@
+pandas
+pandas_datareader
+matplotlib
+numpy
+scikit-learn
+tensorflow
