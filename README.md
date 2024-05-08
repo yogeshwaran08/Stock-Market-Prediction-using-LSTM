@@ -17,3 +17,5 @@
 ### Data provider
 
 - Tiingo
+
+![image](https://github.com/yogeshwaran08/Stock-market-prediction-using-lstm/assets/85753695/82dd0d89-2af3-4d3e-91a6-da5fc6ee9ca5)
